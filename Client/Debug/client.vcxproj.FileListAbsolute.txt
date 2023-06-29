@@ -1,0 +1,3 @@
+D:\D\Documents\Desktop\MFC-Socket\Client\Debug\client.exe
+D:\D\Documents\Desktop\数字签名\大作业\备选\MFC-Socket\Client\Debug\client.exe
+D:\D\Documents\Desktop\数字签名\大作业\MFC-Socket\Client\Debug\client.exe

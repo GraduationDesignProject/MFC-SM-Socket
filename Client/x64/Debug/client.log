@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+  client.cpp
+  clientDlg.cpp
+D:\D\Documents\Desktop\MFC-SM-Socket\Client\SM4.h(38,8): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\D\Documents\Desktop\MFC-SM-Socket\Client\SM3.h(15,43): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\D\Documents\Desktop\MFC-SM-Socket\Client\clientDlg.cpp(234,22): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\D\Documents\Desktop\MFC-SM-Socket\Client\clientDlg.cpp(393,50): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\D\Documents\Desktop\MFC-SM-Socket\Client\clientDlg.cpp(357,6): warning C4101: “iSent”: 未引用的局部变量
+D:\D\Documents\Desktop\MFC-SM-Socket\Client\clientDlg.cpp(508,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\D\Documents\Desktop\MFC-SM-Socket\Client\clientDlg.cpp(662,41): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\D\Documents\Desktop\MFC-SM-Socket\Client\clientDlg.cpp(681,21): warning C4018: “<”: 有符号/无符号不匹配
+  Mysocket.cpp
+  正在生成代码...
+  LINK : 没有找到 D:\D\Documents\Desktop\MFC-SM-Socket\Client\x64\Debug\client.exe 或上一个增量链接没有生成它；正在执行完全链接
+    正在创建库 D:\D\Documents\Desktop\MFC-SM-Socket\Client\x64\Debug\client.lib 和对象 D:\D\Documents\Desktop\MFC-SM-Socket\Client\x64\Debug\client.exp
+  client.vcxproj -> D:\D\Documents\Desktop\MFC-SM-Socket\Client\x64\Debug\client.exe

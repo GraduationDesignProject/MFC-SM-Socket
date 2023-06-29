@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+  Mysocket.cpp
+  server.cpp
+  serverDlg.cpp
+D:\D\Documents\Desktop\MFC-SM-Socket\Server\SM4.h(38,8): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\D\Documents\Desktop\MFC-SM-Socket\Server\SM3.h(15,43): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\D\Documents\Desktop\MFC-SM-Socket\Server\serverDlg.cpp(223,23): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\D\Documents\Desktop\MFC-SM-Socket\Server\serverDlg.cpp(405,61): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\D\Documents\Desktop\MFC-SM-Socket\Server\serverDlg.cpp(395,9): warning C4101: “sig_len”: 未引用的局部变量
+D:\D\Documents\Desktop\MFC-SM-Socket\Server\serverDlg.cpp(512,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\D\Documents\Desktop\MFC-SM-Socket\Server\serverDlg.cpp(678,41): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\D\Documents\Desktop\MFC-SM-Socket\Server\serverDlg.cpp(698,21): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  LINK : 没有找到 D:\D\Documents\Desktop\MFC-SM-Socket\Server\x64\Debug\server.exe 或上一个增量链接没有生成它；正在执行完全链接
+    正在创建库 D:\D\Documents\Desktop\MFC-SM-Socket\Server\x64\Debug\server.lib 和对象 D:\D\Documents\Desktop\MFC-SM-Socket\Server\x64\Debug\server.exp
+  server.vcxproj -> D:\D\Documents\Desktop\MFC-SM-Socket\Server\x64\Debug\server.exe

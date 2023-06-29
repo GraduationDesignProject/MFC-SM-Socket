@@ -1,0 +1,2 @@
+D:\D\Documents\Desktop\数字签名\大作业\MFC-Socket\Server\x64\Debug\server.exe
+D:\D\Documents\Desktop\MFC-SM-Socket\Server\x64\Debug\server.exe
